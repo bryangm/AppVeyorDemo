@@ -13,7 +13,7 @@ namespace ValuesApi.Controllers
         [Route("ping")]
         public IHttpActionResult Ping()
         {
-            return this.Ok("Pong!");
+            return this.Ok("Pong!!!!!!");
         }
     }
 }
